@@ -44,4 +44,3 @@ Month | One Hot Encoding |
 sparse_categorical_crossentropy
 • Batch = 150
 • Epochs = 50
-Résultats Graphes d’apprentissage :
