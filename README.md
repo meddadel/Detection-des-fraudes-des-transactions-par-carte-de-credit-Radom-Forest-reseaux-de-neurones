@@ -9,19 +9,19 @@ Colonnes gardées   | Encoding |
 Amt( amount ) | Log (numpy) |
 --- | --- | 
 Age ( de la personne au moment du transaction ) |  Log (numpy) |
-
+--- | --- | 
 Distance ( distance entre le commerçant et le titulaire de la carte ) |  Log (numpy) |
-
+--- | --- | 
 Category ( du commerçant ) |  One Hot Encoding |
-
+--- | --- | 
 Credit card type|  One Hot Encoding |
-z
+--- | --- | 
 State | One Hot Encoding |
-
+--- | --- | 
 Day | One Hot Encoding |
- 
+ --- | --- | 
 Hour | One Hot Encoding |
- 
+ --- | --- | 
 Month | One Hot Encoding |
 
 ### Algo / Modele ###
