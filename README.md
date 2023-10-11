@@ -3,19 +3,27 @@ Dataset (Train and test)
 Source des données: https://www.kaggle.com/datasets/kartik2112/fraud- detection
 
 ### Encoding ###
------------------------------------------------------------------------------------------
-Colonnes gardées                                  | Encoding
------------------------------------------------------------------------------------------
-Amt( amount )                                                         |  Log (numpy)
-Age ( de la personne au moment du transaction )                       |  Log (numpy)
-Distance ( distance entre le commerçant et le titulaire de la carte ) |  Log (numpy)
-Category ( du commerçant )                                            |  One Hot Encoding
-Credit card type                                                      |  One Hot Encoding
-State                                                                 |  One Hot Encoding
-Day                                                                   |  One Hot Encoding
-Hour                                                                  |  One Hot Encoding
-Month                                                                 |  One Hot Encoding
------------------------------------------------------------------------------------------
+
+#Colonnes gardées   | #Encoding |
+--- | --- | 
+Amt( amount ) | Log (numpy) |
+--- | --- | 
+Age ( de la personne au moment du transaction ) |  Log (numpy) |
+--- | --- | 
+Distance ( distance entre le commerçant et le titulaire de la carte ) |  Log (numpy) |
+--- | --- | 
+Category ( du commerçant ) |  One Hot Encoding |
+--- | --- | 
+Credit card type|  One Hot Encoding |
+--- | --- | 
+State | One Hot Encoding |
+--- | --- | 
+Day | One Hot Encoding |
+--- | --- | 
+Hour | One Hot Encoding |
+--- | --- | 
+Month | One Hot Encoding |
+
 ### Algo / Modele ###
 
 # RANDOM FOREST # and # RÉSEAU DE NEURONES CLASSIFIER ARTIFICIELS # 
