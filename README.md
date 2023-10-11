@@ -7,7 +7,7 @@ Source des données: https://www.kaggle.com/datasets/kartik2112/fraud-detection
 Colonnes gardées   | Encoding |
  --- | --- | 
 Amt( amount ) | Log (numpy) |
-
+--- | --- | 
 Age ( de la personne au moment du transaction ) |  Log (numpy) |
 
 Distance ( distance entre le commerçant et le titulaire de la carte ) |  Log (numpy) |
@@ -15,7 +15,7 @@ Distance ( distance entre le commerçant et le titulaire de la carte ) |  Log (n
 Category ( du commerçant ) |  One Hot Encoding |
 
 Credit card type|  One Hot Encoding |
-
+z
 State | One Hot Encoding |
 
 Day | One Hot Encoding |
